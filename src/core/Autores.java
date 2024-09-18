@@ -4,10 +4,12 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author fang
  */
-public class Autores {
-    
+public class Autores extends Persona {
+      ArrayList<Libros> Libros;
 }

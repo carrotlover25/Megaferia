@@ -8,6 +8,6 @@ package core;
  *
  * @author fang
  */
-public class Gerente {
-    
+public class Gerente extends Persona {
+    Editorial editoriales = new Editorial();
 }

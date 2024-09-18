@@ -4,10 +4,15 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author fang
  */
 public class Stand {
     
+    private int id;
+    private float precio;
+    ArrayList<Editorial> Editoriales;
 }
